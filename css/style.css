@@ -8578,7 +8578,7 @@ textarea.form-control {
 
 .gallery {
   display: block;
-  height: 460px;
+  height: 150px;
   position: relative; }
   .gallery .icon {
     width: 50px;
@@ -8859,7 +8859,7 @@ textarea.form-control {
     left: 10%;
     margin-left: -80px; }
   .testimony-section:hover .owl-nav .owl-next {
-    right: 50%;
+    right: 10%;
     margin-right: -80px; }
   .testimony-section .owl-dots {
     text-align: center; }
